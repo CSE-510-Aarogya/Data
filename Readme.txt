@@ -1,0 +1,7 @@
+这是AVEC2017文本数据库
+
+各个文件的解释：
+* DAICWOZ_scripts是AVEC2017的抑郁症文本数据库。
+* dev_split_Depression_AVEC2017.csv是AVEC2017的抑郁症文本数据库的验证集信息
+* test_split_Depression_AVEC2017.csv是AVEC2017的抑郁症文本数据库的测试集信息
+* train_split_Depression_AVEC2017.csv是AVEC2017的抑郁症文本数据库的训练集信息
